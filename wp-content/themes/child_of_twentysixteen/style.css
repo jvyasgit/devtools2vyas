@@ -1,0 +1,19 @@
+/*
+Theame Name: Jigar's Cool Theam
+Descri[plltion: Child theam base on twenty sixteen;
+Author: Analytical Engine interactive inc.
+Version: 1.0
+Template: twentysixteen
+*/
+@import url('../twentysixteen/style.css');
+
+body {
+	background-color: blue;
+}
+.entry-title a:hover, .entry-title a:focus {
+	color: pink;
+}
+
+.entry-title a:hover, .entry-title a:focus {
+	color: pink;
+}
